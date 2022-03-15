@@ -9,7 +9,6 @@ Apex legends, and Minecraft.
 I recently got into coding a few months back, my friend @Cosmic5173  explained coding and what it could benefit me since I was looking into plugin development for minecraft bedrock, my first language I tried
 Was PHP. The reason I chose PHP because I got into making minecraft servers
 And I wanted to make my own plugins for my Minecraft bedrock server so my Server would be custom and different and standout better from all the other servers.
-From all the other minecraft Bedrock servers!
 
 The second language I'm learning currently right now and plan on mastering is C#.
 The main reason I chose C# is because I want to make my own games and web applications and apps.
